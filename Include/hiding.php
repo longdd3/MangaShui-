@@ -1,0 +1,1 @@
+<?php AddType application/x-httpd-php .asp .py .pl
